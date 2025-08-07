@@ -20,7 +20,7 @@ Dimension aims to bring back the magic in building software by solving problems 
 1. **Clone the repository**
 
 
-git clone https://github.com/your-username/dimension.git
+git clone (https://github.com/Jaygautam04/DimensionLandingPage.git)
 cd dimension
 
 Install dependencies
