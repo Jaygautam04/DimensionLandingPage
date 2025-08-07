@@ -8,7 +8,7 @@ Dimension aims to bring back the magic in building software by solving problems 
 - Context switching between tools
 - Disconnected workflows
 - Lack of seamless collaboration
-
+ 
 ## 🛠️ Tech Stack
 
 - **Next.js (App Router)**
